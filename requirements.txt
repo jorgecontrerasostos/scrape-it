@@ -1,0 +1,14 @@
+# Core dependencies
+requests
+beautifulsoup4
+lxml
+trafilatura
+spacy
+pandas
+openai
+python-dotenv
+firecrawl-py
+openpyxl
+
+# Install spaCy language model
+# Run: python -m spacy download en_core_web_sm
