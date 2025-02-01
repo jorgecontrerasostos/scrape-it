@@ -9,6 +9,7 @@ openai
 python-dotenv
 firecrawl-py
 openpyxl
+firecrawl-py
 
 # Install spaCy language model
 # Run: python -m spacy download en_core_web_sm
